@@ -46,4 +46,8 @@ This repository contains projects developed during a graduate-level medical imag
 
 ---
 
+## Acknowledgments
+
+- This project was originally developed as part of a graduate-level research computing course at the University of Cambridge.
+
 
